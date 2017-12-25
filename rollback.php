@@ -10,4 +10,7 @@ function huafufunc(){
 	echo "this branch is sunhuafu";
 }
 
+function huafufunc2(){
+	echo "this branch is sunhuafu and commit second";
+}
 
