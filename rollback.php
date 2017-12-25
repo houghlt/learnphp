@@ -21,3 +21,7 @@ function hhuafufunc3(){
 function otherfunc(){
 	echo "this branch is other1";
 }
+
+function other2func(){
+	echo "this branch is other2";
+}
