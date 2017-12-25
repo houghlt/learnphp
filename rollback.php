@@ -14,3 +14,6 @@ function huafufunc2(){
 	echo "this branch is sunhuafu and commit second";
 }
 
+function hhuafufunc3(){
+	echo "this branch is sunhuafu and commit third";
+}
