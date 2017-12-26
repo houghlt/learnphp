@@ -25,3 +25,14 @@ function otherfunc(){
 function other2func(){
 	echo "this branch is other2";
 }
+
+// ///////
+function common(){
+    echo "master";
+    return "master";
+}
+
+
+function masterFunc(){
+    echo "this master method";
+}
