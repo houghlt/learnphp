@@ -6,24 +6,13 @@ function helloworld(){
 }
 
 
-function huafufunc(){
-	echo "this branch is sunhuafu";
+function helloword2(){
+	echo "hello world";
 }
 
-function huafufunc2(){
-	echo "this branch is sunhuafu and commit second";
-}
 
-function hhuafufunc3(){
-	echo "this branch is sunhuafu and commit third";
-}
-
-function otherfunc(){
-	echo "this branch is other1";
-}
-
-function other2func(){
-	echo "this branch is other2";
+function helloword3(){
+	echo "hello world";
 }
 
 // ///////
