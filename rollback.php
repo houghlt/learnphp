@@ -14,3 +14,14 @@ function helloword2(){
 function helloword3(){
 	echo "hello other1 world";
 }
+
+// ///////
+function common(){
+    echo "master";
+    return "master";
+}
+
+
+function masterFunc(){
+    echo "this master method";
+}
