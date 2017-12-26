@@ -3,4 +3,5 @@
 
 
 echo "hello world";
-echo "my name sunhuafu";
+echo "hello world 1";
+echo "hello world 2";
